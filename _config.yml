@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:cristawathen@gmail.com"}
   - {title: Github, icon: github, url: "https://cwathen.github.io/Portfolio/"}
-  - {title: LinkedIn, icon: <i class="fa-brands fa-linkedin-in"></i>, url: "https://www.linkedin.com/in/crista-wathen/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/crista-wathen/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
