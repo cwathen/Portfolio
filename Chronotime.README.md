@@ -1,18 +1,20 @@
-# Kappa / timeline of events occuring between two chronological periods and two different sites used for R
+### Kappa / timeline of events occuring between two chronological periods and two different sites used for R
+---
 
-# This can be applied to any timeline and it does not matter how large or small. It's applications are not only archaeological but can be used to create work schedules etc. 
+This can be applied to any timeline and it does not matter how large or small. It's applications are not only archaeological but can be used to create work schedules etc. 
 
 
-#use the R vistime package to start off
+Use the R vistime package to start off
 
-#using the text of event, etc. will let you edit it to your specific dates. This library requires a month and date so if you are like me and care only about years, then you can use 01-01. 
+Using the text of event, etc. will let you edit it to your specific dates. This library requires a month and date so if you are like me and care only about years, then you can use 01-01. 
 
-#Event = Chronological age 
-#Group = how you want to group the years together, for instance, by site, by geographical area, etc.
-#Start = the start date (YEAR-MONTH-DATE), use 01-01 if month-date are unknown or unspecified
-#End = the end date (YEAR-MONTH-DATE), use 01-01 if month-date are unknown or unspecified
+- Event = Chronological age 
+- Group = how you want to group the years together, for instance, by site, by geographical area, etc.
+- Start = the start date (YEAR-MONTH-DATE), use 01-01 if month-date are unknown or unspecified
+- End = the end date (YEAR-MONTH-DATE), use 01-01 if month-date are unknown or unspecified
 install
 
+```r
 library(vistime) 
 
 data <- read.csv(text="event,group,start,end
@@ -25,11 +27,14 @@ data <- read.csv(text="event,group,start,end
  Maximum period of cemetery use,Västerhus,1125-01-01,1500-01-01
  Erection of Frösö runic stone,Västerhus,1050-01-01,1080-01-01
  Pagan burial ceases,Västerhus,1025-01-01,1050-01-01")
+```
+>If you want it to aligned with no event labels use this one
 
-#If you want it to aligned with no event labels use this one
-
+```r
 gg_vistime(data, optimize_y = TRUE, show_labels = FALSE) 
+```
+>If you want the event labels but it won't be aligned
 
-#If you want the event labels but it won't be aligned
-
+```r
 gg_vistime(data, optimize_y = FALSE)
+```
