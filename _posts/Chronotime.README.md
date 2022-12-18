@@ -1,4 +1,12 @@
-### Kappa / timeline of events occuring between two chronological periods and two different sites used for R
+---
+title:  "Chronological Timeline or Schedule"
+mathjax: true
+layout: post
+categories: media
+---
+
+![Timeline of two Viking age sites](/assets/Images/Rplot01n1.jpg)
+### Chronological Timeline or Schedule using R
 ---
 
 This can be applied to any timeline and it does not matter how large or small. It's applications are not only archaeological but can be used to create work schedules etc. 
