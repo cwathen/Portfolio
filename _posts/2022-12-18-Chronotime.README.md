@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Timeline of two Viking age sites](/assets/Images/Rplot01n1.jpg)
+![Timeline of two Viking age sites](../assets/Images/Rplot01n1.jpg)
 ### Chronological Timeline or Schedule using R
 ---
 
