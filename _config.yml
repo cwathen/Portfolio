@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Index", url: "C:\Users\cwath\Documents\GitHub\Portfolio\index.html"}
-  - {file: "README.md", title: "Introduction", url: "C:\Users\cwath\Documents\GitHub\Portfolio\README.md", icon: person, sidebaricon: people}
+  - {file: "index.html", title: "Index", url: "/Portfolio/index.html"}
+  - {file: "README.md", title: "Introduction", url: "/Portfolio/README.md", icon: person, sidebaricon: people}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:cristawathen@gmail.com"}
