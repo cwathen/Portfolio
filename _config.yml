@@ -1,1 +1,4 @@
-theme: minima
+remote_theme: jamigibbs/phantom
+
+plugins:
+  - jekyll-remote-theme
