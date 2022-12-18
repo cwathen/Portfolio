@@ -1,4 +1,7 @@
-# Portfolio
+---
+title: "Introduction"
+permalink: "/introduction/"
+layout: page
 ---
 
 ## Several readme.md projects are included: 
