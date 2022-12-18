@@ -17,7 +17,7 @@ title: "Hello. I'm Crista Wathen."
 email: 'cwathen90@gmail.com'
 description: "I'm a former archaeologist who is giving up my trowel and is looking for a position in data analytics."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cwathen.github.io/Portfoio" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://cwathen.github.io/Portfolio/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'cristaawathen'
 github_username: 'cwathen'
 medium_username:
@@ -90,8 +90,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2022 Crista Wathen'
+admin_name: 'Crista Wathen'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
