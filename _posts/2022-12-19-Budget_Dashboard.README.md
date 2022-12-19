@@ -31,17 +31,22 @@ This is an in-depth workbook that tracks 2 currencies and can be applied to more
    <img src="{{site.baseurl}}/assets/Images/Dashboard_helper.jpg" alt="Dashboard helper" />
   </div>
   <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/Images/BudgetDashboard1.jpg" alt="Settings - Creation" />
+   <img src="{{site.baseurl}}/assets/Images/Actual.jpg" alt="Actual" />
   </div>
   <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/images/cc/Settings_Folders.PNG" alt="Settings - Folders" />  
+   <img src="{{site.baseurl}}/assets/Images/Dividends.jpg" alt="Dividends" />  
   </div>
   <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/images/cc/Settings_Interface.PNG" alt="Settings - Interface" />
+   <img src="{{site.baseurl}}/assets/Images/FIRE%20tracker.jpg" alt="Fire Tracker" />
   </div>
   <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/images/cc/Settings_Analyst.PNG" alt="Settings - Analyst" />  
+   <img src="{{site.baseurl}}/assets/Images/Networth.jpg" alt="Networth calculation" />  
   </div>
+  <div class="carousel-cell">
+   <img src="{{site.baseurl}}/assets/Images/Spending.jpg" alt="Spending" />  
+  </div>
+
+  ---
 
 Example Formulas used within the sheet:
 ```
