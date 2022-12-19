@@ -5,39 +5,40 @@ layout: post
 categories: media
 ---
 <head>
-  <!-- other head stuff... -->
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/flickity.css" media="screen">
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/fullscreen.css">
+      <!-- other head stuff... -->
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/flickity.css" media="screen">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/fullscreen.css">
 </head>
 <body>
-  <!-- all your great html... -->
-  <script src="{{site.baseurl}}/assets/js/flickity.pkgd.js"></script>
-  <script src="{{site.baseurl}}/assets/js/fullscreen.js"></script>
+    <!-- all your great html... -->
+    <script src="{{site.baseurl}}/assets/js/flickity.pkgd.js"></script>
+    <script src="{{site.baseurl}}/assets/js/fullscreen.js"></script>
 </body>
 
-<div class="carousel"
-  data-flickity='{ "imagesLoaded": true, "percentPosition": false,"adaptiveHeight": true,"fullscreen": true }'>
-  <div class="carousel-cell">
-    <img src="{{site.baseurl}}/assets/Images/BudgetDashboard1.jpg" alt="Dashboard" />
-  </div>
-  <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/Images/Dashboard_helper.jpg" alt="Dashboard helper" />
-  </div>
-  <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/Images/Actual.jpg" alt="Actual" />
-  </div>
-  <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/Images/Dividends.jpg" alt="Dividends" />  
-  </div>
-  <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/Images/FIRE%20tracker.jpg" alt="Fire Tracker" />
-  </div>
-  <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/Images/Networth.jpg" alt="Networth calculation" />  
-  </div>
-  <div class="carousel-cell">
-   <img src="{{site.baseurl}}/assets/Images/Spending.jpg" alt="Spending" />  
-  </div>
+<div class="carousel" data-flickity='{ "imagesLoaded": true, "percentPosition": false,"adaptiveHeight": true,"fullscreen": true }'>
+    <div class="carousel-cell">
+        <img src="{{site.baseurl}}/assets/Images/BudgetDashboard1.jpg" alt="Dashboard" />
+    </div>
+    <div class="carousel-cell">
+        <img src="{{site.baseurl}}/assets/Images/Dashboard_helper.jpg" alt="Dashboard helper" />
+    </div>
+    <div class="carousel-cell">
+        <img src="{{site.baseurl}}/assets/Images/Actual.jpg" alt="Actual" />
+    </div>
+    <div class="carousel-cell">
+        <img src="{{site.baseurl}}/assets/Images/Dividends.jpg" alt="Dividends" />  
+    </div>
+    <div class="carousel-cell">
+        <img src="{{site.baseurl}}/assets/Images/FIRE%20tracker.jpg" alt="Fire Tracker" />
+    </div>
+    <div class="carousel-cell">
+        <img src="{{site.baseurl}}/assets/Images/Networth.jpg" alt="Networth calculation" />  
+    </div>
+    <div class="carousel-cell">
+        <img src="{{site.baseurl}}/assets/Images/Spending.jpg" alt="Spending" />  
+    </div>
+</div>
+
 ---
 
 The photo carousel is of a dashboard that is the first sheet of an in-depth Excel workbook that is connected to 6 other sheets.
