@@ -16,7 +16,7 @@ This is an in-depth workbook that tracks 2 currencies and can be applied to more
 <div class="carousel"
   data-flickity='{ "imagesLoaded": true, "percentPosition": false,"adaptiveHeight": true,"fullscreen": true }'>
   <div class="carousel-cell">
-    <img src="/assets/Images/BudgetDashboard1.jpg" alt="Case Info tab" />
+    <img src="{{site.baseurl}}/assets/Images/BudgetDashboard1.jpg" alt="Dashboard" />
   </div>
   <div class="carousel-cell">
    <img src="/assets/Images/BudgetDashboard1.jpg" alt="Template Settings tab" />
