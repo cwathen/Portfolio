@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", icon: tent}
+  - {file: "index.html", icon: h}
   - {file: "README.md", icon: user}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
