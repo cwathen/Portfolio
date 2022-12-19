@@ -14,7 +14,7 @@ categories: media
   <script src="{{site.baseurl}}/assets/js/flickity.pkgd.js"></script>
   <script src="{{site.baseurl}}/assets/js/fullscreen.js"></script>
 </body>
-![Budget Dashboard]({{site.baseurl}}/assets/Images/BudgetDashboard1.jpg)
+
 
 ### Budgeting Dashboard using 2 currencies
 ---
