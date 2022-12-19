@@ -1,12 +1,10 @@
 ---
-title:  "Chronological Timeline or Schedule"
+title:  "Chronological Timeline or Schedule using R"
 mathjax: true
 layout: post
 categories: media
 ---
 
-
-### Chronological Timeline or Schedule using R
 ---
 ![Timeline of two Viking age sites]({{site.baseurl}}/assets/Images/Rplot01n1.jpg)
 
