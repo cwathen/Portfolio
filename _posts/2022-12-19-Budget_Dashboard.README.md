@@ -19,7 +19,7 @@ This is an in-depth workbook that tracks 2 currencies and can be applied to more
     <img src="{{site.baseurl}}/assets/Images/BudgetDashboard1.jpg" alt="Dashboard" />
   </div>
   <div class="carousel-cell">
-   <img src="/assets/Images/BudgetDashboard1.jpg" alt="Template Settings tab" />
+   <img src="{{site.baseurl}}/assets/Images/Dashboard_helper.jpg" alt="Dashboard helper" />
   </div>
   <div class="carousel-cell">
    <img src="/assets/Images/BudgetDashboard1.jpg" alt="Settings - Creation" />
