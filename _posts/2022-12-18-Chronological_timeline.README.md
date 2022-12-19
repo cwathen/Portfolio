@@ -5,9 +5,10 @@ layout: post
 categories: media
 ---
 
-![Timeline of two Viking age sites]({{site.baseurl}}/assets/Images/Rplot01n1.jpg)
+
 ### Chronological Timeline or Schedule using R
 ---
+![Timeline of two Viking age sites]({{site.baseurl}}/assets/Images/Rplot01n1.jpg)
 
 This can be applied to any timeline and it does not matter how large or small. It's applications are not only archaeological but can be used to create work schedules etc. 
 
