@@ -4,7 +4,16 @@ mathjax: true
 layout: post
 categories: media
 ---
-
+<head>
+  <!-- other head stuff... -->
+  <link rel="stylesheet" href="/assets/css/flickity.css" media="screen">
+  <link rel="stylesheet" href="/assets/css/fullscreen.css">
+</head>
+<body>
+  <!-- all your great html... -->
+  <script src="/assets/js/flickity.pkgd.js"></script>
+  <script src="/assets/js/fullscreen.js"></script>
+</body>
 ![Budget Dashboard]({{site.baseurl}}/assets/Images/BudgetDashboard1.jpg)
 
 ### Budgeting Dashboard using 2 currencies
