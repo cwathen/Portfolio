@@ -1,12 +1,13 @@
 ---
-title: "CV"
+title: ""
 permalink: "/CV/"
 layout: page
 ---
 <img src="{{site.baseurl}}/assets/Images/Headshot.jpg" alt="Headshot" width="150" style="float: left;" >
 <br>
 # Crista Wathen
----
+
+<br>
 #### PROFILE
 
 I am an Analyst who has worked within Academia for the last four years. I am looking to pivot out of Academia into an industry role. I have six years of experience in data analysis, communication, problem solving, and have an analytical and curious mindset. I am fascinated about how numbers can tell us stories of the past, present, and future, as nearly everything has data. In addition, I have over four years of experience collaborating with cross-functional teams to understand complex systems and processes and can tailor any data interpretations to the needs of the recipient.
