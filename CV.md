@@ -3,7 +3,7 @@ title: "CV"
 permalink: "/CV/"
 layout: page
 ---
-<img src="/assets/Images/Headshot.jpg" alt="Headshot" width="150"  style="float: left;" >
+<img src="{{site.baseurl}}/assets/Images/Headshot.jpg" alt="Headshot" width="150" style="float: left;" >
 <br>
 # Crista Wathen
 ---
