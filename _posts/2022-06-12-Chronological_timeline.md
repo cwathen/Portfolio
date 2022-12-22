@@ -3,13 +3,14 @@ title:  "Chronological Timeline or Schedule using R"
 mathjax: true
 layout: post
 categories: media
+excerpt_separator: <!--more-->
 ---
 
 ![Timeline of two Viking age sites]({{site.baseurl}}/assets/Images/Rplot01n1.jpg)
 ---
 
 This can be applied to any timeline and it does not matter how large or small. It's applications are not only archaeological but can be used to create work schedules etc. 
-
+<!--more-->
 Use the R vistime package to start off.
 
 Using the text of event, etc. will let you edit it to your specific dates. This library requires a month and date so if you are like me and care only about years, then you can use 01-01. 

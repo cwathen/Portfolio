@@ -3,6 +3,7 @@ title:  "Two-currency Budget Dashboard"
 mathjax: true
 layout: post
 categories: media
+excerpt_separator: <!--more-->
 ---
 <head>
       <!-- other head stuff... -->
@@ -42,7 +43,7 @@ categories: media
 ---
 
 The photo carousel is of a dashboard that is the first sheet of an in-depth Excel workbook that is connected to 6 other sheets.
-
+<!--more-->
 This is an in-depth workbook that tracks 2 currencies and can be applied to more than 2 or even just 1. This dashboard also tracks your FIRE (financial independence retire early) goal by demonstrating your percentage reached. This is connected to three sheets - Dividend, Networth and FIRE tracker. The latter of which calculates your FIRE number and age you can early retire based on the 4% rule.
 
 This sheet was made for those within the FIRE community and numbers are associated with no one's personal numbers. 
