@@ -9,6 +9,7 @@ excerpt_separator: <!--more-->
 ![Python calc]({{site.baseurl}}/assets/Images/Python_calc.jpg) 
 
 This is a short code that was made as part of a course. This is the creation of a calculator using Python. This shows the skills on building using 'if/else' statements. 
+<!--more-->
 
 ```
 import math
@@ -154,3 +155,4 @@ while True:
         continue
 
 #end of code
+```
