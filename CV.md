@@ -25,7 +25,7 @@ I am an Analyst who has worked within Academia for the last four years. I am loo
 
 #### EXPERIENCE 
 ##### April 2018 – September 2022
-##### *Data Analyst*, Stockholm University
+##### *Data Scientist*, Stockholm University
 * Cleaned data and analyzed experimental data using linear regression models and statistical methods
 * Used R and Python to analyze data, including publishing code that make analysis easier
 * Visualized data by creating dashboards and graphs using Microsoft Excel and Power BI
@@ -39,7 +39,7 @@ I am an Analyst who has worked within Academia for the last four years. I am loo
 * Exceeded goals by 5% for new client acquisition and implemented a client retention strategy to reduce client attrition
 
 ##### October 2014 – September 2015
-##### *Junior Data Analyst*, University of Oxford
+##### *Data Analyst*, University of Oxford
 * Cleaned data and analyzed data using statistical methods
 * Conducted data analysis using Microsoft Excel and R
 * Visualized data and created graphs using Microsoft Excel
@@ -57,5 +57,8 @@ I am an Analyst who has worked within Academia for the last four years. I am loo
 
 #### CERTIFICATION
 The Complete SQL Bootcamp 2022: Go from Zero to Hero  
+**UDemy**
+
+Python Complete Masterclass for Beginners
 **UDemy**
 

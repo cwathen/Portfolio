@@ -4,7 +4,11 @@ permalink: "/introduction/"
 layout: page
 ---
 
-Hello, I am Crista 
+Hello, I am Crista, a Data Scientist who has worked as an Archaeological Researcher for the last 4.5 years. 
+
+Please see my [CV](https://cwathen.github.io/Portfolio/CV/) for more information. 
+
+Here I have inserted several projects I have completed. 
 
 ## Several projects are included: 
 1. [Calculator using Python](https://cwathen.github.io/Portfolio/Python_Calculator/) that calculates 10 different mathematical functionChronological timeline that can be amended to create schedules under 
