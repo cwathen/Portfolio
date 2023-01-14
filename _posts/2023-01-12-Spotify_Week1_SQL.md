@@ -1,5 +1,5 @@
 ---
-title:  "Spotify SQL and Tableau"
+title:  "Spotify Week 1 SQL querys"
 mathjax: true
 layout: post
 categories: media
@@ -8,8 +8,6 @@ excerpt_separator: <!--more-->
 This is short project completed to ask 3 questions from the global spotify weekly charts. Several steps need to be completed, including creating a database, inserting a csv file and creating queries to answer questions.
 
 Before conducting any of these steps the data must be looked at for clarity and make a plan for cleaning if needed. 
-
-Then the csv file was used to create a Dashboard through Tableau
 
 Step 1:
 Create a database, I called mine Spotify charts
@@ -87,4 +85,3 @@ Adding the 'as Percent_Change' created a new column to see the values, however, 
 
 
 --------
-*Dashboard using Tableau*
