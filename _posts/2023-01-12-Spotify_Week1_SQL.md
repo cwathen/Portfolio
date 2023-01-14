@@ -28,7 +28,7 @@ create table spotify (Pos numeric,
 			 Total bigint)
 ```
 
-![Spotify Global Weekly Chart CSV]({{site.baseurl}}\assets\Images\spotify_weekly_chart1.csv) 
+
 
 Step 3: Begin querys
 
