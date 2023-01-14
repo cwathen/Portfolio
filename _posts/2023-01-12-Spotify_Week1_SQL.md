@@ -9,6 +9,8 @@ This is short project completed to ask 3 questions from the global spotify weekl
 
 Before conducting any of these steps the data must be looked at for clarity and make a plan for cleaning if needed. 
 
+<!--more-->
+
 Step 1:
 Create a database, I called mine Spotify charts
 
