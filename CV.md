@@ -16,6 +16,7 @@ I am an Analyst who has worked within Academia for the last four years. I am loo
 
 #### SKILLS
 * Microsoft Office – Excel, Power BI, PowerPoint, and Word (Expert)
+* Tableau (Intermediate) 
 * Project management
 * SQL (Expert)
 * R and Python (Intermediate)

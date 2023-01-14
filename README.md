@@ -18,6 +18,7 @@ Here I have inserted several projects I have completed.
 
 |Project|Skills|Language|
 |-------|:----:|:-------:|
+|Spotify Week 1|Data Analysis |SQL and Tableau|
 | [Calculator using Python](https://cwathen.github.io/Portfolio/Python_Calculator/)|App Building|Python|
 | [Chronological Timeline or Schedule](https://cwathen.github.io/Portfolio/Chronological_timeline/)| Data analysis | R |
 | [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/)| Data analysis | Excel |
