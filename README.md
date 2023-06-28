@@ -4,7 +4,7 @@ permalink: "/introduction/"
 layout: page
 ---
 
-Hello, I am Crista, a Data Scientist who has worked as an Archaeological Researcher for the last 4.5 years. 
+Hello, I am Crista, a Research Analyst who has experience with data visualization and interpretation, managing projects, and publishing data.
 
 Please see my [CV](https://cwathen.github.io/Portfolio/CV/) for more information. 
 
