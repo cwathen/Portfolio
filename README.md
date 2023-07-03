@@ -23,5 +23,5 @@ Here I have inserted several projects I have completed.
 | [Calculator using Python](https://cwathen.github.io/Portfolio/Python_Calculator/)|App Building|Python|
 | [Chronological Timeline or Schedule](https://cwathen.github.io/Portfolio/Chronological_timeline/)| Data analysis | R |
 | [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/)| Data analysis | Excel |
-| [HR Dashboard]()| Data Analysis | PowerBi |
+| [HR Dashboard](https://cwathen.github.io/Portfolio/HR_Dashboard_PowerBi/)| Data Analysis | PowerBI |
 
