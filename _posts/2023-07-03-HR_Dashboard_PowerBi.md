@@ -27,7 +27,7 @@ Several KPIs are used to address different points
 
 You can visit the PowerBI file with the data and the dashboard here, by visiting [this repository](https://github.com/cwathen/PowerBi)
 
-SQL 
+SQL - Testing Power BI KPI data using SQL
 ---
 Create a table to insert a CSV file
 
@@ -62,5 +62,24 @@ Question 2: KPI- Attrition Count
 
 ```
 select count(attrition) from hrdata where attrition='Yes';
+```
+
+Question 3: KPI- Attrition Rate
+
+```
+select 
+round (((select count(attrition) from hrdata where attrition='Yes')/ 
+sum(employee_count)) * 100,2)
+from hrdata;
+```
+Question 4: KPI - Active Employees
+```
+select sum(hr.employee_count) - (select count(attrition) from hrdata  
+where attrition='Yes') from hrdata;
+```
+Question 5: KPI Average Age of Employees
+
+```
+select round(avg(age),0) from hrdata;
 ```
 --------
