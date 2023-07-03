@@ -14,8 +14,8 @@ Here I have inserted several projects I have completed.
 1. [Spotify Week 1 SQL querys](https://cwathen.github.io/Portfolio/Spotify_Week1_SQL/) where 3 different questions are asked about the data 
 2. [Calculator using Python](https://cwathen.github.io/Portfolio/Python_Calculator/) that calculates 10 different mathematical functionChronological timeline that can be amended to create schedules under 
 3. [Chronological Timeline or Schedule]( https://cwathen.github.io/Portfolio/Chronological_timeline/)
-4. [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/) that tracks 2 currencies and tracks FIRE (Financial Independence Retire Early) goals
- 
+4. [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/) that tracks 2 currencies and tracks FI (Financial Independence) goals
+5. [HR Dashboard]() Attrition based on Age, Gender, Job Title
 
 |Project|Skills|Language|
 |-------|:----:|:-------:|
@@ -23,4 +23,5 @@ Here I have inserted several projects I have completed.
 | [Calculator using Python](https://cwathen.github.io/Portfolio/Python_Calculator/)|App Building|Python|
 | [Chronological Timeline or Schedule](https://cwathen.github.io/Portfolio/Chronological_timeline/)| Data analysis | R |
 | [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/)| Data analysis | Excel |
+| [HR Dashboard]()| Data Analysis | PowerBi |
 
