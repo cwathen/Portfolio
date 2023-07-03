@@ -17,7 +17,7 @@ Several KPIs are used to address different points
 4. Active employees: Need a way to measure the active and inactive employees so that productivity can be measured.
 5. Average Age: This would evaluate the workforce demographics and the company's ability to attract and retain talent of different ages.
 
-![HR Dashboard]({{site.baseurl}}/../../assets/Images/HR_dashboard.jpg)
+![HR Dashboard]({{site.baseurl}}/assets/Images/HR_dashboard.jpg)
 
 You can visit the PowerBI file with the data and the dashboard here, by visiting [this repository](https://github.com/cwathen/PowerBi)
 
