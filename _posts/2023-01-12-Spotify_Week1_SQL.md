@@ -18,16 +18,17 @@ Step 2:
 Create a table to insert a CSV file
 
 ```
-create table spotify (Pos numeric,
-			 Pos_movement VARCHAR(50),
-			 Artist varchar(50),
-			 Title VARCHAR(100),
-			 Weeks integer,
-			 Peak integer,
-			 Peakx integer,
-			 Streams bigint,
-			 Streams_movement bigint,
-			 Total bigint)
+create table spotify 
+(	Pos numeric,
+	Pos_movement VARCHAR(50),
+	Artist varchar(50),
+	Title VARCHAR(100),
+	Weeks integer,
+	Peak integer,
+	Peakx integer,
+	Streams bigint,
+	Streams_movement bigint,
+	Total bigint)
 ```
 
 
