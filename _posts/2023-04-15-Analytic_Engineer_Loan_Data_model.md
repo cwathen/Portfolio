@@ -36,7 +36,7 @@ Assumptions:
 
 ![Loan Case Study flow]({{site.baseurl}}/assets/Images/Loancasestudy.jpg)
 
-![Loan Case Study table]({{site.baseurl}}/assets/Images/Loancasestudy1.jpg)
+![Loan Case Study table]({{site.baseurl}}/assets/Images/loancasestudy1.jpg)
 
 ### Dataflow and tool selection
 ---
