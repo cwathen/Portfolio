@@ -1,5 +1,5 @@
 ---
-title:  "HR Dashboard and SQL"
+title:  "Measuring HR KPIs using PowerBI and SQL"
 mathjax: true
 layout: post
 categories: media
