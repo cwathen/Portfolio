@@ -5,15 +5,14 @@ layout: post
 categories: media
 excerpt_separator: <!--more-->
 ---
+
+![HR Dashboard]({{site.baseurl}}/assets/Images/HR_dashboard.jpg)
 This is short project using Power BI and SQL analyzed HR data to help the department to monitor and manage different aspects of employee data to maintain a healthy workforce.
 
 <!--more-->
 
 Power BI
 ---
-![HR Dashboard]({{site.baseurl}}/assets/Images/HR_dashboard.jpg)
-
-
 
 
 Several KPIs are used to address different points
