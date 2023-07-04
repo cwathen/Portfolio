@@ -41,9 +41,9 @@ Assumptions:
 ### Dataflow and tool selection
 ---
 
-**Data collection**: Various data sources (loan apps, credit reports, bank bids, etc.) can be collected and integrated into BigQuery.
-**Data transformation**: DBT (open-source modelling tool) can transform raw data into a useable format.
-**Data analysis and **visualization****: Transformed data can be queried using SQL and visualized using PowerBI. PowerBI allows interactive dashboards to be created so we can know how many loan bids per application were made and other important questions can be answered.
+- **Data collection**: Various data sources (loan apps, credit reports, bank bids, etc.) can be collected and integrated into BigQuery.
+- **Data transformation**: DBT (open-source modelling tool) can transform raw data into a useable format.
+- **Data analysis and **visualization****: Transformed data can be queried using SQL and visualized using PowerBI. PowerBI allows interactive dashboards to be created so we can know how many loan bids per application were made and other important questions can be answered.
 
 ### Data warehouse - BigQuery 
 ---
