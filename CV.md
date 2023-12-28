@@ -12,25 +12,26 @@ layout: page
 <br>
 #### PROFILE
 
-I am an Analyst who is looking for a new role. I have six years of experience in data analysis, communication, problem solving, and have an analytical and curious mindset. I am fascinated about how numbers can tell us stories of the past, present, and future, as nearly everything has data. In addition, I have over four years of experience collaborating with cross-functional teams to understand complex systems and processes and can tailor any data interpretations to the needs of the recipient.
+I am an Data Scientist who is looking for a new role. I have six years of experience in data analysis, communication, problem solving, and have an analytical and curious mindset. I am fascinated about how numbers can tell us stories of the past, present, and future, as nearly everything has data. In addition, I have over four years of experience collaborating with cross-functional teams to understand complex systems and processes and can tailor any data interpretations to the needs of the recipient.
 
 #### SKILLS
-* Microsoft Office – Excel, Power BI, PowerPoint, and Word (Proficient)
-* Tableau (Intermediate) 
+* Microsoft Office – Excel, Power BI, PowerPoint, and Word 
+* Tableau 
 * Project management
-* SQL (Proficient)
-* R and Python (Intermediate)
-* Statistics (Intermediate)
+* SQL 
+* R and Python 
+* Machine Learning
+* Statistics 
 * Public speaking (Proficient)
 * Languages – English, Spanish, and Swedish
 
 #### EXPERIENCE 
 ##### April 2018 – September 2022
-##### *Research Analyst/Project Manager*, Stockholm University
-* Responsible six investigative research projects focusing on method development
+##### *Data Scientist/Project Manager*, Stockholm University
+* Responsible for six investigative research projects focusing on method development
 * Initiated and created databases using SQL to query for data from journals
 * Performed detailed analysis using R and Python to detect patterns, trends and anomalies using linear regression models and statistical methods
-* Visualized data by creating dashboards and graphs using Microsoft Excel 
+* Visualized data by creating dashboards and graphs 
 * Shared and presented research progress and results to varied audiences, including stakeholders
 * Recommended methodologies and created documentation to support other researchers and improve future analysis
 
