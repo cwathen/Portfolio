@@ -28,9 +28,9 @@ You can visit the PowerBI file with the data and the dashboard here, by visiting
 
 SQL - Testing Power BI KPI data using SQL
 ---
-Create a table to insert a CSV file
+#### Create a table to insert a CSV file
 
-```
+```sql
 create table HR_data
 (
 	emp_no integer PRIMARY KEY,
@@ -51,34 +51,34 @@ create table HR_data
 )
 ```
 
-Question 1: KPI- Employee Count
+##### Question 1: KPI- Employee Count
 
-```
+```sql
 select sum(employee_count) as Employee_Count from hrdata;
 ```
 
-Question 2: KPI- Attrition Count
+##### Question 2: KPI- Attrition Count
 
-```
+```sql
 select count(attrition) from hrdata where attrition='Yes';
 ```
 
-Question 3: KPI- Attrition Rate
+##### Question 3: KPI- Attrition Rate
 
-```
+```sql
 select 
 round (((select count(attrition) from hrdata where attrition='Yes')/ 
 sum(employee_count)) * 100,2)
 from hrdata;
 ```
-Question 4: KPI - Active Employees
-```
+##### Question 4: KPI - Active Employees
+```sql
 select sum(hr.employee_count) - (select count(attrition) from hrdata  
 where attrition='Yes') from hrdata;
 ```
-Question 5: KPI Average Age of Employees
+##### Question 5: KPI Average Age of Employees
 
-```
+```sql
 select round(avg(age),0) from hrdata;
 ```
 --------
