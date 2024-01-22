@@ -60,6 +60,7 @@ where artist like 'Ed Sheeran%'
 
 
 Answer: 
+
 |Count |
 |-------|
 |4|
