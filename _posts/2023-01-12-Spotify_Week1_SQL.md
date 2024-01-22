@@ -14,7 +14,7 @@ Before conducting any of these steps the data must be looked at for clarity and 
 ### Step 1: Create a database 
 >I called mine 'Spotify charts'
 
-###Step 2: Create a table to insert a CSV file
+### Step 2: Create a table to insert a CSV file
 
 ```sql
 create table spotify 
@@ -32,7 +32,7 @@ create table spotify
 
 
 
-###Step 3: Begin querys
+### Step 3: Begin querys
 
 #### Question 1: Top 3 songs that spent the most amount of time in the charts and how many weeks each?
 
@@ -51,7 +51,7 @@ Answer:
 |3|Shape of you| 298|
 
 #### Question 2: How times is Ed Sheeran on this list?
-```
+```sql
 select count (artist)
 from spotify
 where artist like 'Ed Sheeran%'
@@ -67,7 +67,7 @@ Answer:
 
 #### Question 3: Which 3 songs dropped in the most amount of streams from previous week (include artist for clarity)?
 
-```
+```sql
 select artist, title, 
 100*(streams - (streams - streams_movement))/(streams - streams_movement)
 as Percent_Change
