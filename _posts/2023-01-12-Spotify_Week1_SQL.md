@@ -11,13 +11,12 @@ Before conducting any of these steps the data must be looked at for clarity and 
 
 <!--more-->
 
-Step 1:
-Create a database, I called mine Spotify charts
+### Step 1: Create a database 
+>I called mine 'Spotify charts'
 
-Step 2:
-Create a table to insert a CSV file
+###Step 2: Create a table to insert a CSV file
 
-```
+```sql
 create table spotify 
 (	Pos numeric,
 	Pos_movement VARCHAR(50),
@@ -29,13 +28,13 @@ create table spotify
 	Streams bigint,
 	Streams_movement bigint,
 	Total bigint)
-```
+``` 
 
 
 
-Step 3: Begin querys
+###Step 3: Begin querys
 
-Question 1: Top 3 songs that spent the most amount of time in the charts and how many weeks each?
+#### Question 1: Top 3 songs that spent the most amount of time in the charts and how many weeks each?
 
 ```
 select title, weeks from spotify
@@ -43,14 +42,15 @@ order by weeks desc
 limit 3
 
 ```
-Answer:
+Answer: 
+
 ||Title |Weeks|
 |-------|:----:|:-------:|
 |1|Believer|309|
 |2|Perfect|303|
 |3|Shape of you| 298|
 
-Question 2: How times is Ed Sheeran on this list?
+#### Question 2: How times is Ed Sheeran on this list?
 ```
 select count (artist)
 from spotify
@@ -64,7 +64,7 @@ Answer:
 |-------|
 |4|
 
-Question 3: Which 3 songs dropped in the most amount of streams from previous week (include artist for clarity)?
+#### Question 3: Which 3 songs dropped in the most amount of streams from previous week (include artist for clarity)?
 
 ```
 select artist, title, 
