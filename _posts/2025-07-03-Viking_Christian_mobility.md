@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 
 ![Project_Poster]({{site.baseurl}}/assets/Images/Crista Wathen- for portfolio.jpg)
 
+<!--more-->
+
 Python, Photoshop, and ArcGIS were used to create figures.
 
 Figure 1 was made with ArcGIS. 
@@ -131,9 +133,11 @@ plt.show
 
 #end of code
 ```
+
 **Figure 6: Piechart for locality categories**
 
-```python
+```python 
+
 import matplotlib.pyplot as plt
 import pandas as pd
 
