@@ -208,7 +208,7 @@ for autotext in autotexts:
 # Add a legend outside the pie chart
 plt.legend(
     wedges, 
-    category_percentages.index,  # Set font family for legend
+    category_percentages.index, 
     loc="center left",  # Position the legend outside the pie chart
     bbox_to_anchor=(1, 0.5),
     fontsize=18
