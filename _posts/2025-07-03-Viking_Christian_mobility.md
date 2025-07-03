@@ -11,6 +11,7 @@ excerpt_separator: <!--more-->
 <!--more-->
 
 Python, Photoshop, and ArcGIS were used to create figures.
+---
 
 Figure 1 was made with ArcGIS. 
 
