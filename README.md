@@ -18,7 +18,6 @@ Here I have inserted several projects I have completed.
 5. [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/) that tracks 2 currencies and tracks FI (Financial Independence) goals
 6. [Human Resources Data - Data Analysis Project measuring KPIs](https://cwathen.github.io/Portfolio/HR_Dashboard_PowerBi/) that includes a PowerBI dashboard where data and report can be found in [this repository](https://github.com/cwathen/PowerBi). SQL is also included in this project to demonstrate skillset and the same data is used
 7. [Analytics Engineer Loan Case Study](https://cwathen.github.io/Portfolio/Analytic_Engineer_Loan_Data_model/) to design a data model that would store customers information
-8. 
 
 |Project|Skills|Language|
 |-------|:----:|:-------:|
@@ -29,4 +28,3 @@ Here I have inserted several projects I have completed.
 | [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/)| Data analysis | Excel |
 | [Human Resources Data - Data Analysis Project measuring KPIs](https://cwathen.github.io/Portfolio/HR_Dashboard_PowerBi/)| Data Analysis | PowerBI and SQL|
 | [Analytics Engineer Loan Case Study](https://cwathen.github.io/Portfolio/Analytic_Engineer_Loan_Data_model/)| Data Architecture | Data Modeling|
-
