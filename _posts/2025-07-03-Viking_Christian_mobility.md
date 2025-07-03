@@ -132,6 +132,7 @@ plt.show
 #end of code
 ```
 **Figure 6: Piechart for locality categories**
+
 ```python
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -213,3 +214,5 @@ plt.legend(
 plt.title(r'Categorization based on $^{87}\mathrm{Sr}/^{86}\mathrm{Sr}$ values', fontsize=16)
 plt.gcf().set_dpi(1000) #good resolution
 plt.show()
+#end of code
+```
