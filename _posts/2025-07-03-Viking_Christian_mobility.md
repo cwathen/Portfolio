@@ -32,10 +32,10 @@ A technique called Laser Ablation was used and this ablates shallow lines into e
 - **Data collection**: Strontium values came from Laser Ablation but ranges were calculated using current geological data that has been published
 - **Data transformation**: Excel
 - **Data analysis and **visualization****: Transformed data into .csv files so they could be analysed using Python. This allowed for models based on classification of locality, as well as creating graphs.
-- 
-Figure 5 Permanent teeth with amendments for Deciduous teeth
 
-´´´r
+**Figure 5: Permanent teeth with amendments for Deciduous teeth**
+
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -47,8 +47,7 @@ df = pd.read_csv('e:\phd.3\Varnehem\TrainingMLwithallteethdata.csv')
 plt.rcParams['font.family'] = 'Arial' 
 
 selected_sex = ['Subadult', 'Female', 'Male']
-selected_tooth_type = ['M1', 'PM', 'M2', 'M3']  
-# Replace with the specific tooth type/sex you want to display 
+selected_tooth_type = ['M1', 'PM', 'M2', 'M3']  # Replace with the specific tooth type/sex you want to display 
 
 filtered_df =  df[(df['Sex'].isin(selected_sex)) & (df['Tooth type'].isin(selected_tooth_type))]
 
@@ -69,9 +68,8 @@ tooth_markers = {
 plt.figure(figsize=(12,8))
 
 # Create scatterplot for each tooth type separately
-
-
 #shared_palette = sns.color_palette("colorblind", n_colors=filtered_df['Individual'].nunique())
+#Use the above if you want to have colors based on Individual rather than on Sex
 
 scatter = sns.scatterplot(
     x='Distance from ERJ (mm)',
@@ -81,8 +79,7 @@ scatter = sns.scatterplot(
     style_order=['M1', 'PM', 'M2', 'M3'],
     markers=tooth_markers,  # Use different markers for teeth
     data=filtered_df[~filtered_df['Different_Tooth']],
-    #palette=shared_palette,
-    #legend='full',
+    #palette=shared_palette, #Use this for Individual
     s=100,
     alpha=0.7
     )
@@ -96,8 +93,6 @@ sns.lineplot(
         units='Individual',
         estimator=None,
         data=filtered_df,
-        #markers=False,
-        #dashes=False,
         #palette=shared_palette,
         legend=False,  # Show legend for lines
     )
@@ -136,3 +131,85 @@ plt.show
 
 #end of code
 ```
+**Figure 6: Piechart for locality categories**
+```python
+import matplotlib.pyplot as plt
+import pandas as pd
+
+df = pd.read_csv(r'e:/phd.3/Varnehem/TrainingMLwithallteethdata.csv')	
+
+# Function to classify movement for each individual, change local min and max to specific ones you need
+def classify_movement(Sr_ratios):
+    local_min = 0.7142
+    local_max = 0.7207
+    inside_local = Sr_ratios.between(local_min, local_max)
+    transitions = inside_local.diff().fillna(0).astype(int)
+    
+    if all(inside_local):  # Always within the local range
+        return 'Local'
+    elif not any(inside_local):  # Always outside the local range
+        return 'Non-local'
+    elif transitions.sum() == 1 and not inside_local.iloc[0]:  # Moves into the local range
+        return 'Mixed - moves into the local range'
+    elif transitions.sum() == 1 and inside_local.iloc[0]:  # Moves out of the local range
+        return 'Mixed - moves out of the local range'
+    elif transitions.sum() > 1:  # Crosses the local range multiple times
+        return 'Mixed - crosses local range multiple times'
+    else:
+        return 'Unclassified'
+
+# Apply the classification to each individual
+categories = []
+for ind, group in df.groupby('Individual'):  # Group by individual ID
+    sr_ratios = group['87Sr/86Sr'].reset_index(drop=True)
+    category = classify_movement(sr_ratios)
+    categories.append({'Individual': ind, 'Category': category})
+
+# Create a new DataFrame with the categories
+category_df = pd.DataFrame(categories)
+
+# Merge the categories back into the original dataframe for reference
+df = df.merge(category_df, on='Individual', how='left')
+
+# Count the occurrences of each category
+category_counts = category_df['Category'].value_counts()
+# Filter out categories with zero counts (if any)
+category_counts = category_counts[category_counts > 0]
+category_percentages = (category_counts / len(category_df)) * 100 #calculate percentage
+
+# Define custom colors
+colors = {'Non-local':'#377eb8', 'Mixed - crosses local range multiple times': '#ff7f00','Local':'#4daf4a', 'Mixed - moves into the local range': '#f781bf', 'Mixed - moves out of the local range': '#a65628'}
+plt.rcParams['font.family'] = 'Arial'
+
+# Get colors in the order of categories to plot
+colors_ordered = [colors[cat] for cat in category_percentages.index]
+
+# Plot the pie chart
+plt.figure(figsize=(12, 10))
+wedges, _, autotexts = plt.pie(
+    category_percentages,
+    autopct='%1.1f%%',  # Show percentage with 1 decimal
+    startangle=90,
+    colors=colors_ordered,
+    textprops={'color': 'black'}  # Color of percentage labels
+)
+
+# Modify percentage font size and color
+for autotext in autotexts:
+    autotext.set_color('black')  # Set percentage text color to white
+    autotext.set_fontsize(18)    # Set percentage font size
+    autotext.set_fontfamily('Arial')  # Set font family to Arial
+
+# Add a legend outside the pie chart
+plt.legend(
+    wedges, 
+    category_percentages.index,  # Set font family for legend
+    loc="center left",  # Position the legend outside the pie chart
+    bbox_to_anchor=(1, 0.5),
+    fontsize=18
+)
+
+# Set the title
+plt.title(r'Categorization based on $^{87}\mathrm{Sr}/^{86}\mathrm{Sr}$ values', fontsize=16)
+plt.gcf().set_dpi(1000) #good resolution
+plt.show()
