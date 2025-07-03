@@ -17,6 +17,7 @@ Here I have inserted several projects I have completed.
 4. [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/) that tracks 2 currencies and tracks FI (Financial Independence) goals
 5. [Human Resources Data - Data Analysis Project measuring KPIs](https://cwathen.github.io/Portfolio/HR_Dashboard_PowerBi/) that includes a PowerBI dashboard where data and report can be found in [this repository](https://github.com/cwathen/PowerBi). SQL is also included in this project to demonstrate skillset and the same data is used
 6. [Analytics Engineer Loan Case Study](https://cwathen.github.io/Portfolio/Analytic_Engineer_Loan_Data_model/) to design a data model that would store customers information
+7. [Viking Christian Pioneers Mobility study](https://cwathen.github.io/Portfolio/Viking_Christian_mobility/) to design a data model that would store customers information
 
 |Project|Skills|Language|
 |-------|:----:|:-------:|
@@ -26,3 +27,4 @@ Here I have inserted several projects I have completed.
 | [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/)| Data analysis | Excel |
 | [Human Resources Data - Data Analysis Project measuring KPIs](https://cwathen.github.io/Portfolio/HR_Dashboard_PowerBi/)| Data Analysis | PowerBI and SQL|
 | [Analytics Engineer Loan Case Study](https://cwathen.github.io/Portfolio/Analytic_Engineer_Loan_Data_model/)| Data Architecture | Data Modeling|
+| [Viking Christian Pioneers Mobility data study](https://cwathen.github.io/Portfolio/Viking_Christian_mobility/) | Data analysis | Python |
