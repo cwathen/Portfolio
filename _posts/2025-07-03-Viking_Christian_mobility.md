@@ -6,7 +6,7 @@ categories: media
 excerpt_separator: <!--more-->
 ---
 
-![Project_Poster]({{site.baseurl}}/assets/Images/Crista Wathen- for portfolio1.jpg)
+![Project_Poster]({{site.baseurl}}/assets/Images/Crista Wathen- ISBA poster1.jpg)
 
 <!--more-->
 
