@@ -27,14 +27,14 @@ I am an Data Scientist who is looking for a new role. I have six years of experi
 
 #### EXPERIENCE 
 
-##### JUNE 2024 – PRESENT
+##### June 2024 – PRESENT
 ##### Data Scientist/ Project Manager, Stockholm University
 * Managed several investigative research projects focusing on method development for migration analysis using isotopic and geological-based data
 * Used programming languages, such as SQL, R, and Python to analyze data and used MS Excel and Python to visualize the data
 * Built a classification model to predict individual migration status in a population 
 * Shared and presented research progress and results to varied audiences, including stakeholders
 
-##### JUNE 2023 – MAY 2024
+##### August 2023 – May 2024
 ##### Customer Success Manager/Project Manager, Aura Cloud AB
 * Build and maintain strong relationships with B2B customers
 * Understand and align with customers' business goals and objectives
