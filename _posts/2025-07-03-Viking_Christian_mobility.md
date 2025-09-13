@@ -6,7 +6,7 @@ categories: media
 excerpt_separator: <!--more-->
 ---
 
-![Project_Poster]({{site.baseurl}}/assets/Images/Slide1.JPG"")
+![Project_Poster]({{site.baseurl}}/assets/Images/Slide1.JPG)
 
 <!--more-->
 
