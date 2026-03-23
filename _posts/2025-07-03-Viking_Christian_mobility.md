@@ -1,5 +1,5 @@
 ---
-title:  "Christian Viking Pioneers"
+title:  "Case Study: Understanding how Christianity affected these early Christian Viking Pioneers"
 mathjax: true
 layout: post
 categories: media
@@ -10,15 +10,6 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-Python, Photoshop, and ArcGIS were used to create figures.
----
-
-Figure 1 was made with ArcGIS. 
-
-Figure 2-4 used Photoshop to improve the resolution and to create the ranges needed to show the variations in geology of the site.
-
-Figures 5-6 were made using VScode and Python
-
 Several questions were asked in the course of this project. Previous radiocarbon dates placed the site period during an overlap of the Late Viking Age and the Early Medievel Period. Around the site there is evidence of paganism and Christianity during the same timeframe, meaning this was one of the earliest sites where Christianity arrived. 
 
 There were two main questions, that were interesting from a mobility standpoint:
@@ -28,6 +19,14 @@ There were two main questions, that were interesting from a mobility standpoint:
 
 A technique called Laser Ablation was used and this ablates shallow lines into enamel and you can create a mobility profile as you will use several different strontium values to determine how an individual moved. 
 
+Python, Photoshop, and ArcGIS were used to create figures.
+---
+
+Figure 1 was made with ArcGIS. 
+
+Figure 2-4 used Photoshop to improve the resolution and to create the ranges needed to show the variations in geology of the site.
+
+Figures 5-6 were made using VScode and Python
 
 ### Dataflow and tool selection
 ---
