@@ -1,5 +1,5 @@
 ---
-title:  "Measuring HR KPIs using PowerBI and SQL"
+title:  "Case Study: Measuring HR KPIs using PowerBI and SQL"
 mathjax: true
 layout: post
 categories: media

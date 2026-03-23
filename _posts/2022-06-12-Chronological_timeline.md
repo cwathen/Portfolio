@@ -1,5 +1,5 @@
 ---
-title:  "Part of a Case study to understand how Christianity was brought to two different part of Sweden using a chronological Timeline from R"
+title:  "Figure from a Case study to understand how Christianity was brought to two different part of Sweden using a chronological Timeline from R"
 mathjax: true
 layout: post
 categories: media
