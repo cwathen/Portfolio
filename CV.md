@@ -10,49 +10,42 @@ layout: page
 <br>
 <br>
 <br>
+
 #### PROFILE
 
-I am Researcher who is looking for a new role. I have six years of experience in data analysis, communication, problem solving, and have an analytical and curious mindset. I am fascinated about how numbers can tell us stories of the past, present, and future, as nearly everything has data. In addition, I have over four years of experience collaborating with cross-functional teams to understand complex systems and processes and can tailor any data interpretations to the needs of the recipient.
+Researcher and Project Manager with experience delivering data-driven insights that inform decisions. Skilled in combining qualitative and quantitative research methods to understand user needs, evaluate solutions, and guide product development. Experienced in working with cross-functional teams in agile environments, translating complex findings into actionable recommendations. Strong background in stakeholder communication, research design, and structured problem-solving.
 
-#### SKILLS
-* Microsoft Office – Excel, Power BI, PowerPoint, and Word 
-* Tableau 
-* Project management
-* SQL 
-* R and Python 
-* Machine Learning
-* Statistics 
-* Public speaking (Proficient)
-* Languages – English, Spanish, and Swedish
+#### Core Competencies
+· User interviews · Research design & analysis · Combining Qualitative and quantitative research and insights · Defining metrics· User segmentation · Insight synthesis and storytelling · Translating user needs into requirements · Cross-functional collaboration · Agile/Scrum · Stakeholder alignment · SQL · Python · Machine learning for behavioral analysis
 
 #### EXPERIENCE 
 
 ##### June 2024 – PRESENT
 ##### *Postdoctoral Researcher*, Stockholm University
-* •	Designed and conducted qualitative and quantitative research studies to investigate past behaviors 
-* •	Collected, analyzed, and synthesized data to generate actionable insights
-* •	Translated research findings into structured outputs and recommendations for stakeholders
-* •	Communicated insights to both technical and non-technical audiences through reports and presentations
-* •	Managed project timelines, priorities, and risks across multiple concurrent research initiatives
-* •	Led and supervised junior team members (Bachelor’s and Master’s students), coordinating project work, setting milestones, and ensuring timely and high-quality delivery
+* Designed and conducted qualitative and quantitative research studies to investigate past behaviors 
+* Collected, analyzed, and synthesized data to generate actionable insights
+* Translated research findings into structured outputs and recommendations for stakeholders
+* Communicated insights to both technical and non-technical audiences through reports and presentations
+* Managed project timelines, priorities, and risks across multiple concurrent research initiatives
+* Led and supervised junior team members (Bachelor’s and Master’s students), coordinating project work, setting milestones, and ensuring timely and high-quality delivery
 
 
 ##### August 2023 – May 2024
 ##### *Customer Success Manager/Project Manager*, Aura Cloud AB
-* •	Gathered and analyzed user requirements to inform product development and prioritization
-* •	Collaborated with product managers and engineering teams to translate user needs into product features
-* •	Evaluated user workflows and product functionality to support implementation and adoption
-* •	Acted as a bridge between users and technical teams to ensure user needs were reflected in product decisions
-* •	Managed stakeholder expectations, timelines, and delivery risks in a regulated financial environment
+* Gathered and analyzed user requirements to inform product development and prioritization
+* Collaborated with product managers and engineering teams to translate user needs into product features
+* Evaluated user workflows and product functionality to support implementation and adoption
+* Acted as a bridge between users and technical teams to ensure user needs were reflected in product decisions
+* Managed stakeholder expectations, timelines, and delivery risks in a regulated financial environment
 
 
 ##### April 2018 – September 2022
 ##### *PhD Researcher*, Stockholm University
-* •	Designed and executed research studies combining qualitative and quantitative methodologies
-* •	Analyzed complex datasets to identify patterns in human behavior and decision-making
-* •	Developed structured frameworks and documentation to support research clarity and reuse
-* •	Communicated findings through academic publications, presentations, and stakeholder discussions
-* •	Managed multiple concurrent research projects with full ownership of planning and execution
+* Designed and executed research studies combining qualitative and quantitative methodologies
+* Analyzed complex datasets to identify patterns in human behavior and decision-making
+* Developed structured frameworks and documentation to support research clarity and reuse
+* Communicated findings through academic publications, presentations, and stakeholder discussions
+* Managed multiple concurrent research projects with full ownership of planning and execution
 
 
 ##### November 2015 – March 2018
