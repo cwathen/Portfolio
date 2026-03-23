@@ -1,5 +1,5 @@
 ---
-title:  "Chronological Timeline or Schedule using R"
+title:  "Part of a Case study to understand how Christianity was brought to two different part of Sweden using a chronological Timeline from R"
 mathjax: true
 layout: post
 categories: media
@@ -8,8 +8,10 @@ excerpt_separator: <!--more-->
 
 ![Timeline of two Viking age sites]({{site.baseurl}}/assets/Images/Rplot01n1.jpg)
 ---
+This schedule was used to understand how Christianity was brought to different parts of the country. Here we compared the timelines of two sites from two different dioceses. At this time Västerhus was part of Norway and Varnhem was part of Sweden but had closer relations for Denmark. 
 
-This can be applied to any timeline and it does not matter how large or small. It's applications are not only archaeological but can be used to create work schedules etc. 
+Using this timeline, along with other data, we were able to see that Västerhus was a site where Christianity was part of the community so there was less variation in diet and mobility. Varnhem, on the other head, shows how Christianity was brought to the area and it welcomed more people who traveled further distances to partake. The high amount of non-local burials from outside a 30 km radius shows that people were traveling far distances to take part whereas in Västerhus the population was largely local and did not have to travel far. 
+
 <!--more-->
 Use the R vistime package to start off.
 

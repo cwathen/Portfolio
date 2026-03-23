@@ -12,7 +12,7 @@ layout: page
 <br>
 #### PROFILE
 
-I am an Data Scientist who is looking for a new role. I have six years of experience in data analysis, communication, problem solving, and have an analytical and curious mindset. I am fascinated about how numbers can tell us stories of the past, present, and future, as nearly everything has data. In addition, I have over four years of experience collaborating with cross-functional teams to understand complex systems and processes and can tailor any data interpretations to the needs of the recipient.
+I am Researcher who is looking for a new role. I have six years of experience in data analysis, communication, problem solving, and have an analytical and curious mindset. I am fascinated about how numbers can tell us stories of the past, present, and future, as nearly everything has data. In addition, I have over four years of experience collaborating with cross-functional teams to understand complex systems and processes and can tailor any data interpretations to the needs of the recipient.
 
 #### SKILLS
 * Microsoft Office – Excel, Power BI, PowerPoint, and Word 
@@ -28,43 +28,47 @@ I am an Data Scientist who is looking for a new role. I have six years of experi
 #### EXPERIENCE 
 
 ##### June 2024 – PRESENT
-##### Data Scientist/ Project Manager, Stockholm University
-* Managed several investigative research projects focusing on method development for migration analysis using isotopic and geological-based data
-* Used programming languages, such as SQL, R, and Python to analyze data and used MS Excel and Python to visualize the data
-* Built a classification model to predict individual migration status in a population 
-* Shared and presented research progress and results to varied audiences, including stakeholders
+##### *Postdoctoral Researcher*, Stockholm University
+* •	Designed and conducted qualitative and quantitative research studies to investigate past behaviors 
+* •	Collected, analyzed, and synthesized data to generate actionable insights
+* •	Translated research findings into structured outputs and recommendations for stakeholders
+* •	Communicated insights to both technical and non-technical audiences through reports and presentations
+* •	Managed project timelines, priorities, and risks across multiple concurrent research initiatives
+* •	Led and supervised junior team members (Bachelor’s and Master’s students), coordinating project work, setting milestones, and ensuring timely and high-quality delivery
+
 
 ##### August 2023 – May 2024
-##### Customer Success Manager/Project Manager, Aura Cloud AB
-* Build and maintain strong relationships with B2B customers
-* Understand and align with customers' business goals and objectives
-* Handle and assign all incoming support tickets in a timely and effective manner
-* Manage and update documentations so that clients have up-to-date information
-* Gather customer feedback and communicate it to the product development team
+##### *Customer Success Manager/Project Manager*, Aura Cloud AB
+* •	Gathered and analyzed user requirements to inform product development and prioritization
+* •	Collaborated with product managers and engineering teams to translate user needs into product features
+* •	Evaluated user workflows and product functionality to support implementation and adoption
+* •	Acted as a bridge between users and technical teams to ensure user needs were reflected in product decisions
+* •	Managed stakeholder expectations, timelines, and delivery risks in a regulated financial environment
+
 
 ##### April 2018 – September 2022
-##### *Data Scientist/Project Manager*, Stockholm University
-* Responsible for six investigative research projects focusing on method development
-* Initiated and created databases using SQL to query for data from journals
-* Performed detailed analysis using R and Python to detect patterns, trends and anomalies using linear regression models and statistical methods
-* Visualized data by creating dashboards and graphs 
-* Shared and presented research progress and results to varied audiences, including stakeholders
-* Recommended methodologies and created documentation to support other researchers and improve future analysis
+##### *PhD Researcher*, Stockholm University
+* •	Designed and executed research studies combining qualitative and quantitative methodologies
+* •	Analyzed complex datasets to identify patterns in human behavior and decision-making
+* •	Developed structured frameworks and documentation to support research clarity and reuse
+* •	Communicated findings through academic publications, presentations, and stakeholder discussions
+* •	Managed multiple concurrent research projects with full ownership of planning and execution
+
 
 ##### November 2015 – March 2018
 ##### *Personal Banker*, SunTrust (now Truist)
-* Built relationships with clients (both businesses and individuals) and provided expert guidance and tailored recommendations on financial products to meet individualized goals
-* Communicated regularly with clients to provide progress updates, identify opportunities for upselling or cross-selling, and gather feedback to improve service delivery
-* Worked with cross-functional teams to ensure timely and effective delivery of solutions to clients
-* Provided exceptional customer service and support, including timely response to client inquiries and issues
+* •	Analyzed customer financial behavior to identify needs and recommend tailored solutions
+* •	Provided data-informed insights to improve customer engagement and retention
+* •	Collaborated with internal teams to optimize customer experience and service delivery
+
 
 
 ##### October 2014 – September 2015
 ##### *Research Analyst*, University of Oxford
-* Cleaned data and analyzed data using statistical methods
-* Conducted data analysis using Microsoft Excel and R
-* Visualized data and created graphs using Microsoft Excel
-* Began creating a database to document specific peaks to identify materials
+* • Cleaned data and analyzed data using statistical methods
+* • Conducted data analysis using Microsoft Excel and R
+* • Visualized data and created graphs using Microsoft Excel
+* • Began creating a database to document specific peaks to identify materials
 
 #### EDUCATION
 *Doctor of Philosophy in Archaeological Science*  
