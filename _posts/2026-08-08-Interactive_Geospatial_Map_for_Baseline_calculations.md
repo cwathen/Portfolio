@@ -8,7 +8,8 @@ excerpt_separator: <!--more-->
 
 ![Gif]({{site.baseurl}}/assets/Images/Map Animation.apng)
 ---
-An interactive geospatial application for exploring published bioavailable **87^Sr/86^Sr baseline data** in relation to archaeological sites.
+An interactive geospatial application for exploring published bioavailable **87^Sr/86^Sr baseline data** in relation to archaeological sites by using 10 km, 25 km, and 50 km distance zones.
+<!--more-->
 
 The application allows users to enter an archaeological site's geographic coordinates and explore nearby baseline measurements through an interactive map. Samples can be filtered by type, while geographic proximity is visualized using 10 km, 25 km, and 50 km distance zones.
 
