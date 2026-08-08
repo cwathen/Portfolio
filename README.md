@@ -11,13 +11,14 @@ Please see my [CV](https://cwathen.github.io/Portfolio/CV/) for more information
 Here I have inserted several projects I have completed. 
 
 ## Several projects are included: 
-1. [Case Study: Understanding how Christianity affected these early Christian Viking Pioneers](https://cwathen.github.io/Portfolio/Viking_Christian_mobility/) Data analysis to determine the history of early Christianity in SW Sweden 
-2. [Figure from a Case study to understand how Christianity was brought to two different part of Sweden using a chronological Timeline from R]( https://cwathen.github.io/Portfolio/Chronological_timeline/)
-3. [Case Study: Measuring HR KPIs using PowerBI and SQL](https://cwathen.github.io/Portfolio/HR_Dashboard_PowerBi/) that includes a PowerBI dashboard where data and report can be found in [this repository](https://github.com/cwathen/PowerBi). SQL is also included in this project to demonstrate skillset and the same data is used
-4. [Analytics Engineer Loan Case Study](https://cwathen.github.io/Portfolio/Analytic_Engineer_Loan_Data_model/) to design a data model that would store customers information
-5. [Spotify Week 1 SQL querys](https://cwathen.github.io/Portfolio/Spotify_Week1_SQL/) where 3 different questions are asked about the data 
-6. [Calculator using Python](https://cwathen.github.io/Portfolio/Python_Calculator/) that calculates 10 different mathematical functionChronological timeline that can be amended to create schedules under 
-7. [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/) that tracks 2 currencies and tracks FI (Financial Independence) goals
+1. ![Geospatial decision support tool for available bioavailable 87^Sr/86^Sr data](https://cwathen.github.io/Portfolio/Interactive_Geospatial_Map)
+2. [Case Study: Understanding how Christianity affected these early Christian Viking Pioneers](https://cwathen.github.io/Portfolio/Viking_Christian_mobility/) Data analysis to determine the history of early Christianity in SW Sweden 
+3. [Figure from a Case study to understand how Christianity was brought to two different part of Sweden using a chronological Timeline from R]( https://cwathen.github.io/Portfolio/Chronological_timeline/)
+4. [Case Study: Measuring HR KPIs using PowerBI and SQL](https://cwathen.github.io/Portfolio/HR_Dashboard_PowerBi/) that includes a PowerBI dashboard where data and report can be found in [this repository](https://github.com/cwathen/PowerBi). SQL is also included in this project to demonstrate skillset and the same data is used
+5. [Analytics Engineer Loan Case Study](https://cwathen.github.io/Portfolio/Analytic_Engineer_Loan_Data_model/) to design a data model that would store customers information
+6. [Spotify Week 1 SQL querys](https://cwathen.github.io/Portfolio/Spotify_Week1_SQL/) where 3 different questions are asked about the data 
+7. [Calculator using Python](https://cwathen.github.io/Portfolio/Python_Calculator/) that calculates 10 different mathematical functionChronological timeline that can be amended to create schedules under 
+8. [Budgeting Dashboard](https://cwathen.github.io/Portfolio/Budget_Dashboard/) that tracks 2 currencies and tracks FI (Financial Independence) goals
 
 
 |Project|Skills|Language|
