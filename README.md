@@ -11,7 +11,7 @@ Please see my [CV](https://cwathen.github.io/Portfolio/CV/) for more information
 Here I have inserted several projects I have completed. 
 
 ## Several projects are included: 
-1. [Geospatial decision support tool for available bioavailable 87^Sr/86^Sr data](https://cwathen.github.io/Portfolio/Interactive_Geospatial_Map_for_Baseline_calculations/)
+1. [Geospatial decision support tool for available bioavailable 87^Sr/86^Sr data](https://cwathen.github.io/Portfolio/Interactive_Geospatial_Map_for_Baseline_calculations/) Using published bioavailable data, this app was created to determine whether there are available baseline data points to characterize mobility range of a site in question. This is meant to save money and time.
 2. [Case Study: Understanding how Christianity affected these early Christian Viking Pioneers](https://cwathen.github.io/Portfolio/Viking_Christian_mobility/) Data analysis to determine the history of early Christianity in SW Sweden 
 3. [Figure from a Case study to understand how Christianity was brought to two different part of Sweden using a chronological Timeline from R]( https://cwathen.github.io/Portfolio/Chronological_timeline/)
 4. [Case Study: Measuring HR KPIs using PowerBI and SQL](https://cwathen.github.io/Portfolio/HR_Dashboard_PowerBi/) that includes a PowerBI dashboard where data and report can be found in [this repository](https://github.com/cwathen/PowerBi). SQL is also included in this project to demonstrate skillset and the same data is used
